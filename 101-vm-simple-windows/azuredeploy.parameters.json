@@ -6,7 +6,7 @@
       "value": "demouser"
     },
     "adminPassword": {
-      "value": "GEN-PASS"
+      "value": "GEN-PASSWORD"
     },
     "dnsLabelPrefix": {
       "value": "GEN-UNIQUE"
